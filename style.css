@@ -72,14 +72,13 @@ hr {
 .top-cloud {
   position: absolute;
   right: 20%;
-  top: 50%%;
+  top: 25%;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 19%;
-  bottom: 10%S;
-}
+  bottom: 15%;}
 .pro {
   text-decoration:underline;
 
